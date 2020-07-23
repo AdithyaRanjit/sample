@@ -1,0 +1,7 @@
+<table border="2">
+<tr><th>Child:</th><th>Parent</th>
+<tr><td rowspan="2">Rose</td><td>Jose</td></tr>
+<tr><td>Mary</td></tr>
+<tr><td>Jake</td></tr>
+<tr><td rowspan="2">Paul</td><td>Jack</td>
+<tr><td>Rebecca</td></tr>
